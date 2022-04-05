@@ -20,7 +20,7 @@ Further, the test problems used in the manuscript include: (a) DTLZ, (b) WFG, (c
 
 For running the MaOEAs built on pymoo, make sure you have the following installed:  
 a) Python 3.6 or above: https://www.python.org/  
-b) pymoo package, as available on PyPi and can be installed by: pip install pymoo==0.4.2.2rc2  
+b) pymoo package, as available on PyPi and can be installed using: pip install pymoo==0.4.2.2rc2  
 c) hvwfg package, as available on PyPi and can be installed using: pip install hvwfg  
 
 For running the MaOEAs built on PlatEMO, make sure you have the following installed:  
