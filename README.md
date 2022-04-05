@@ -5,13 +5,13 @@ This repository contains the source codes for a many-objective evolutionary algo
 # Contents
 
 The MaOEAs included in this repository, along with their underlying platforms, are:
-a) LHFiD and LHFiD-i (pymoo)
-b) NSGA-III and NSGA-III-i (pymoo)
-c) θ-DEA and θ-DEA-i (PlatEMO)
-d) RPD-NSGA-II and RPD-NSGA-II-i (PlatEMO)
-e) MOEA/D-LWS and MOEA/D-LWS-i (pymoo)
-f) multiGPO (PlatEMO)
-g) MOEA/AD (jmetal)
+a) LHFiD and LHFiD-i (pymoo)  
+b) NSGA-III and NSGA-III-i (pymoo)  
+c) θ-DEA and θ-DEA-i (PlatEMO)  
+d) RPD-NSGA-II and RPD-NSGA-II-i (PlatEMO)  
+e) MOEA/D-LWS and MOEA/D-LWS-i (pymoo)  
+f) multiGPO (PlatEMO)  
+g) MOEA/AD (jmetal)  
 The relevant description, references and parameter settings, for the above MaOEAs can be found in our submitted manuscript. Notably, pymoo is a python-based platform for developing MaOEAs. Similarly, PlatEMO is MATLAB-based and jmetal is java-based. The difference in the platforms of above MaOEAs is due to the availability of their respective source codes.
 
 Further, the test problems used in the manuscript include: (a) DTLZ, (b) WFG, (c) MaF, (d) minus-DTLZ, and (e) minus-WFG. None of the above platforms (pymoo, PlatEMO or jmetal) covers all these test problems, owing to which, the source codes for the missing test problems have also been included in this repository. 
